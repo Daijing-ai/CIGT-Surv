@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Office lock files
+.~lock.*#
+
+# Local BioMedBERT weights (download from HuggingFace before running)
+biomedbert/
+
+# Generated clinical prompt files (regenerate with clinical_feature_extract.py)
+clinical_prompt/
+
+# Experiment outputs / checkpoints
+results/
+results_*/
+*.pt
+*.pth
+ckpt/
+checkpoints/
+
+# Cluster preprocessing intermediates
+feature_output/
+cluster_output/
+
+# Generated scratch files
+TCGA_BRCA_dummy.csv
+
+# Editor config
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

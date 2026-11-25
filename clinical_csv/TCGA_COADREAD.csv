@@ -1,0 +1,331 @@
+case_id,age,gender,race,censorship,survival_months,ajcc_pathologic_stage,ajcc_pathologic_t,ajcc_pathologic_n,ajcc_pathologic_m
+TCGA-3L-AA1B,61.0,female,black or african american,1.0,15.6,Stage I,T2,N0,M0
+TCGA-4N-A93T,67.0,male,black or african american,1.0,4.8,Stage IIIB,T4a,N1b,M0
+TCGA-4T-AA8H,42.0,female,black or african american,1.0,12.65,Stage IIA,T3,N0,MX
+TCGA-5M-AAT4,74.0,male,black or african american,0.0,1.63,Stage IV,T3,N0,M1b
+TCGA-5M-AAT6,40.0,female,black or african american,0.0,9.67,Stage IV,T4a,N2b,M1a
+TCGA-5M-AATE,76.0,male,black or african american,1.0,39.42,Stage IIA,T3,N0,M0
+TCGA-A6-2671,85.0,male,white,0.0,44.37,Stage IV,T3,N2,M1
+TCGA-A6-2672,82.0,female,white,1.0,46.62,Stage IIIB,T3,N1,M0
+TCGA-A6-2674,71.0,male,white,1.0,43.73,Stage IV,T3,N2,M1
+TCGA-A6-2676,75.0,female,white,0.0,43.5,Stage IIB,T4,N0,M0
+TCGA-A6-2677,68.0,female,white,0.0,24.67,Stage IIIC,T3,N2,M0
+TCGA-A6-2678,43.0,female,white,1.0,42.25,Stage IIIB,T3,N1,M0
+TCGA-A6-2680,72.0,female,black or african american,1.0,35.09,Stage II,T3,N0,M0
+TCGA-A6-2681,73.0,female,white,1.0,45.57,Stage IIA,T3,N0,M0
+TCGA-A6-2682,70.0,male,white,0.0,14.13,Stage IV,T4b,N1,M1
+TCGA-A6-2683,57.0,female,white,0.0,16.8,Stage IV,T4,N0,M1
+TCGA-A6-2684,75.0,female,white,1.0,37.02,Stage I,T2,N0,M0
+TCGA-A6-2685,48.0,female,black or african american,1.0,37.22,Stage IIA,T3,N0,M0
+TCGA-A6-2686,81.0,female,white,0.0,37.53,Stage IIA,T3,N0,M0
+TCGA-A6-3807,53.0,female,white,1.0,34.63,Stage IIIC,T3,N2,M0
+TCGA-A6-3808,73.0,male,white,1.0,33.31,Stage IIA,T3,N0,M0
+TCGA-A6-3809,71.0,female,white,1.0,32.72,Stage IIB,T4,N0,M0
+TCGA-A6-3810,62.0,male,white,1.0,36.5,Stage IIA,T3,N0,M0
+TCGA-A6-4105,79.0,male,white,0.0,14.73,Stage IIA,T3,N0,M0
+TCGA-A6-4107,57.0,female,white,1.0,32.42,Stage IIIB,T3,N1b,M0
+TCGA-A6-5656,74.0,male,white,1.0,32.88,Stage I,T2,N0,M0
+TCGA-A6-5657,65.0,male,black or african american,1.0,31.6,Stage IIIB,T3,N1,M0
+TCGA-A6-5659,82.0,male,white,1.0,30.42,Stage I,T2,N0,M0
+TCGA-A6-5660,73.0,male,black or african american,1.0,29.17,Stage IIIC,T3,N2b,M0
+TCGA-A6-5661,80.0,female,black or african american,1.0,33.51,Stage IIA,T3,N0,M0
+TCGA-A6-5662,46.0,male,white,1.0,23.59,Stage IVA,T3,N2,M1
+TCGA-A6-5664,80.0,male,black or african american,1.0,22.08,Stage IIIC,T4a,N2a,MX
+TCGA-A6-5665,84.0,female,white,1.0,22.04,Stage IIA,T3,N0,M0
+TCGA-A6-5666,78.0,male,white,1.0,32.69,Stage IIC,T4b,N0,M0
+TCGA-A6-5667,40.0,female,white,1.0,29.14,Stage IIIB,T3,N1a,MX
+TCGA-A6-6137,55.0,male,white,1.0,27.07,Stage IIIB,T3,N1c,M0
+TCGA-A6-6138,61.0,male,white,1.0,22.5,Stage I,T2,N0,M0
+TCGA-A6-6140,62.0,male,white,1.0,24.11,Stage IIA,T3,N0,M0
+TCGA-A6-6141,31.0,male,black or african american,1.0,8.38,Stage IIA,T3,N0,M0
+TCGA-A6-6142,56.0,female,white,1.0,25.07,Stage IVA,T3,N1a,M1a
+TCGA-A6-6648,56.0,male,white,1.0,25.16,Stage IVA,T3,N0,M1a
+TCGA-A6-6649,66.0,male,white,1.0,24.15,Stage IIIB,T3,N1b,M0
+TCGA-A6-6650,69.0,female,black or african american,1.0,20.6,Stage IIA,T3,N0,M0
+TCGA-A6-6651,55.0,female,white,1.0,21.75,Stage IIIB,T3,N1b,MX
+TCGA-A6-6652,59.0,male,black or african american,1.0,24.67,Stage IVA,T3,N0,M1
+TCGA-A6-6653,82.0,male,white,1.0,24.38,Stage I,T2,N0,M0
+TCGA-A6-6654,65.0,female,white,1.0,23.85,Stage IIIB,T3,N1,M0
+TCGA-A6-A565,34.0,female,black or african american,0.0,16.47,Stage IIIC,T3,N2,MX
+TCGA-A6-A566,55.0,female,black or african american,0.0,25.27,Stage IIIB,T4,N1,M0
+TCGA-A6-A567,56.0,male,black or african american,0.0,62.7,Stage IV,T3,N1,M1
+TCGA-A6-A56B,57.0,male,black or african american,0.0,57.03,Stage IIIB,T3,N1,M0
+TCGA-A6-A5ZU,59.0,male,black or african american,1.0,9.63,Stage IIIB,T3,N1,M0
+TCGA-AD-5900,67.0,male,white,1.0,12.16,Stage I,T2,N0,MX
+TCGA-AD-6548,81.0,female,white,1.0,21.35,Stage I,T2,N0,M0
+TCGA-AD-6888,73.0,male,white,0.0,15.73,Stage IIIB,T3,N1b,M0
+TCGA-AD-6889,76.0,male,asian,0.0,84.4,Stage IIA,T3,N0,M0
+TCGA-AD-6895,84.0,male,white,1.0,25.07,Stage IIIB,T3,N1a,M0
+TCGA-AD-6899,84.0,male,white,0.0,5.87,Stage IIIC,T4a,N2b,MX
+TCGA-AD-6965,62.0,male,white,1.0,26.45,Stage IIIC,T4a,N2b,M0
+TCGA-AD-A5EK,51.0,male,black or african american,1.0,16.43,Stage I,T2,N0,MX
+TCGA-AU-3779,80.0,female,white,1.0,14.49,Stage IIA,T3,N0,M0
+TCGA-AU-6004,69.0,female,white,1.0,27.07,Stage I,T2,N0,M0
+TCGA-AY-4070,50.0,female,black or african american,0.0,16.53,Stage IIIC,T3,N2,M0
+TCGA-AY-5543,65.0,female,black or african american,1.0,32.98,Stage IVA,T3,N1a,M1
+TCGA-AY-6386,66.0,female,black or african american,1.0,17.81,Stage IIIB,T3,N1a,M0
+TCGA-AY-A54L,74.0,female,black or african american,1.0,17.25,Stage I,T2,N0,M0
+TCGA-AY-A69D,55.0,female,black or african american,1.0,17.84,Stage IIA,T3,N0,M0
+TCGA-AY-A71X,54.0,female,black or african american,1.0,19.32,Stage I,T2,N0,M0
+TCGA-AY-A8YK,44.0,male,black or african american,1.0,18.82,Stage IVA,T3,N2a,M1
+TCGA-AZ-4308,47.0,female,white,1.0,109.2,Stage IIIB,T3,N1,M0
+TCGA-AZ-4313,51.0,female,white,1.0,75.89,Stage I,T1,N0,M0
+TCGA-AZ-4315,61.0,male,white,1.0,58.34,Stage IIA,T3,N0,M0
+TCGA-AZ-4323,37.0,male,white,0.0,1.43,Stage IV,T4,N2,M1
+TCGA-AZ-4614,71.0,female,white,0.0,5.73,Stage IVA,T4a,N1,M1
+TCGA-AZ-4615,84.0,male,white,1.0,32.92,Stage IIIB,T3,N1,M0
+TCGA-AZ-4616,82.0,female,white,0.0,5.2,Stage IV,T3,N2,M1
+TCGA-AZ-4681,79.0,female,white,1.0,106.67,Stage IIA,T3,N0,M0
+TCGA-AZ-4682,61.0,male,white,0.0,22.67,Stage IVA,T3,N0,M1
+TCGA-AZ-5403,43.0,male,white,0.0,63.67,Stage II,T3,N0,MX
+TCGA-AZ-5407,51.0,female,white,1.0,88.14,Stage I,T1,N0,M0
+TCGA-AZ-6598,77.0,female,white,0.0,50.1,Stage II,T3,N0,MX
+TCGA-AZ-6599,72.0,male,white,0.0,6.87,Stage I,T2,N0,MX
+TCGA-AZ-6600,64.0,male,black or african american,0.0,12.27,Stage IV,T4,N1,M1
+TCGA-AZ-6601,68.0,male,white,0.0,101.4,Stage II,T3,N0,M0
+TCGA-AZ-6605,77.0,male,white,0.0,5.3,Stage IIIB,T4,N1,M0
+TCGA-AZ-6606,81.0,male,white,0.0,11.9,Stage IV,T4,N2,M1
+TCGA-AZ-6607,69.0,male,white,0.0,3.23,Stage IV,T4,N2,M1
+TCGA-AZ-6608,55.0,female,white,0.0,1.97,Stage IIIA,T2,N1,M0
+TCGA-CA-5254,42.0,female,asian,1.0,12.68,Stage IIA,T3,N0,M0
+TCGA-CA-5255,45.0,male,asian,1.0,12.35,Stage IIA,T3,N0,M0
+TCGA-CA-5256,54.0,female,asian,1.0,12.45,Stage IIA,T3,N0,M0
+TCGA-CA-5796,52.0,female,asian,1.0,12.39,Stage IIA,T3,N0,M0
+TCGA-CA-5797,56.0,male,asian,1.0,12.58,Stage IIA,T3,N0,M0
+TCGA-CA-6715,63.0,male,asian,1.0,12.58,Stage IIIB,T3,N1,M0
+TCGA-CA-6716,65.0,male,asian,1.0,12.19,Stage IIA,T3,N0,M0
+TCGA-CA-6717,57.0,male,asian,1.0,12.75,Stage IIA,T3,N0,M0
+TCGA-CA-6718,46.0,male,asian,0.0,10.2,Stage IIA,T3,N0,M0
+TCGA-CA-6719,77.0,male,asian,1.0,14.29,Stage IIA,T3,N0,M0
+TCGA-CK-4947,46.0,female,white,1.0,17.54,Stage IIIB,T4,N1,M0
+TCGA-CK-4948,45.0,female,white,1.0,147.9,Stage III,T3,N1,M0
+TCGA-CK-4950,68.0,female,black or african american,1.0,85.38,Stage IIIB,T3,N1,M0
+TCGA-CK-4951,79.0,female,white,0.0,71.13,Stage IIA,T3,N0,M0
+TCGA-CK-4952,48.0,female,white,1.0,15.6,Stage IIIC,T4,N2,M0
+TCGA-CK-5912,81.0,male,white,0.0,49.77,Stage I,T2,N0,MX
+TCGA-CK-5913,58.0,female,white,1.0,51.28,Stage IIA,T3,N0,MX
+TCGA-CK-5914,81.0,male,white,1.0,21.98,Stage IIIB,T3,N1,MX
+TCGA-CK-5916,71.0,female,white,0.0,21.43,Stage I,T1,N0,M0
+TCGA-CK-6747,87.0,female,white,1.0,82.88,Stage IIA,T3,N0,MX
+TCGA-CK-6748,45.0,female,white,1.0,2.0,Stage IV,T3,N1,M1
+TCGA-CK-6751,88.0,female,white,1.0,124.18,Stage I,T2,N0,MX
+TCGA-CM-4743,69.0,male,white,1.0,23.03,Stage IIA,T3,N0,M0
+TCGA-CM-4744,69.0,male,white,1.0,20.01,Stage I,T2,N0,M0
+TCGA-CM-4746,61.0,male,black or african american,1.0,36.99,Stage I,T2,N0,M0
+TCGA-CM-4747,47.0,male,white,1.0,25.0,Stage IVA,T4a,N1b,M1a
+TCGA-CM-4748,53.0,male,white,1.0,26.02,Stage IIIB,T4a,N1a,M0
+TCGA-CM-4751,62.0,male,white,1.0,27.0,Stage IIIB,T3,N1b,M0
+TCGA-CM-4752,58.0,male,black or african american,1.0,13.01,Stage IIA,T3,N0,M0
+TCGA-CM-5341,82.0,female,white,1.0,29.04,Stage IIIA,T2,N1a,M0
+TCGA-CM-5344,39.0,female,white,1.0,22.01,Stage IIIB,T3,N1b,M0
+TCGA-CM-5348,72.0,male,white,1.0,22.96,Stage IIIB,T3,N1a,M0
+TCGA-CM-5349,68.0,female,white,1.0,30.06,Stage IIA,T3,N0,M0
+TCGA-CM-5860,44.0,male,white,1.0,32.0,Stage IIA,T3,N0,M0
+TCGA-CM-5861,63.0,female,white,1.0,15.01,Stage IIA,T3,N0,M0
+TCGA-CM-5862,80.0,male,white,0.0,5.1,Stage IVA,T3,N1a,M1a
+TCGA-CM-5863,60.0,female,white,1.0,15.01,Stage IIIB,T3,N1b,M0
+TCGA-CM-5864,60.0,male,white,1.0,15.01,Stage I,T2,N0,M0
+TCGA-CM-5868,59.0,female,white,1.0,17.02,Stage IVA,T4a,N1a,M1a
+TCGA-CM-6161,36.0,female,white,1.0,15.01,Stage I,T2,N0,M0
+TCGA-CM-6162,48.0,female,white,1.0,11.99,Stage IIIB,T3,N1a,M0
+TCGA-CM-6163,74.0,male,white,1.0,14.03,Stage I,T1,N0,M0
+TCGA-CM-6164,46.0,female,white,1.0,29.01,Stage IIA,T3,N0,M0
+TCGA-CM-6165,74.0,male,white,1.0,16.03,Stage IIA,T3,N0,M0
+TCGA-CM-6166,48.0,female,white,1.0,21.98,Stage I,T2,N0,M0
+TCGA-CM-6167,57.0,female,black or african american,1.0,14.98,Stage IIIC,T3,N2b,M0
+TCGA-CM-6168,84.0,female,black or african american,1.0,12.98,Stage IIA,T3,N0,M0
+TCGA-CM-6169,67.0,male,black or african american,1.0,13.01,Stage IIA,T3,N0,M0
+TCGA-CM-6170,73.0,female,white,1.0,15.01,Stage I,T2,N0,M0
+TCGA-CM-6171,77.0,female,white,1.0,14.03,Stage I,T2,N0,M0
+TCGA-CM-6172,70.0,female,white,1.0,11.01,Stage IIIB,T3,N1a,M0
+TCGA-CM-6674,39.0,male,white,1.0,12.94,Stage IIA,T3,N0,M0
+TCGA-CM-6675,35.0,male,black or african american,1.0,13.04,Stage IVB,T3,N2b,M1b
+TCGA-CM-6676,82.0,male,white,1.0,11.07,Stage I,T2,N0,M0
+TCGA-CM-6677,75.0,female,white,1.0,11.07,Stage IIA,T3,N0,M0
+TCGA-CM-6678,63.0,female,white,1.0,11.01,Stage IVA,T4a,N1c,M1a
+TCGA-CM-6679,58.0,male,white,1.0,10.05,Stage IIA,T3,N0,M0
+TCGA-CM-6680,78.0,female,white,1.0,12.02,Stage IIIB,T3,N2a,M0
+TCGA-D5-5538,60.0,female,white,0.0,55.37,Stage IIIB,T3,N1b,M0
+TCGA-D5-5539,60.0,male,white,1.0,19.58,Stage IIIA,T3,N1,M0
+TCGA-D5-5540,73.0,male,white,1.0,56.04,Stage IIA,T3,N0,M0
+TCGA-D5-5541,63.0,male,white,1.0,55.88,Stage IIIB,T3,N1a,M0
+TCGA-D5-6529,69.0,male,white,1.0,20.17,Stage IIA,T3,N0,M0
+TCGA-D5-6530,53.0,male,white,1.0,20.4,Stage I,T2,N0,M0
+TCGA-D5-6531,75.0,male,white,1.0,17.74,Stage IIA,T3,N0,M0
+TCGA-D5-6532,61.0,male,white,1.0,18.23,Stage IIA,T3,N0,M0
+TCGA-D5-6534,62.0,female,white,1.0,43.23,Stage IIA,T3,N0,M0
+TCGA-D5-6535,80.0,female,white,1.0,15.11,Stage IIIB,T3,N1,MX
+TCGA-D5-6536,73.0,male,white,1.0,17.84,Stage IIA,T3,N0,M0
+TCGA-D5-6537,64.0,male,white,0.0,4.87,Stage IIIB,T3,N1a,MX
+TCGA-D5-6538,79.0,female,white,1.0,17.12,Stage IIIB,T3,N2,M0
+TCGA-D5-6540,66.0,male,white,1.0,16.13,Stage I,T2,N0,M0
+TCGA-D5-6541,49.0,male,white,1.0,15.57,Stage IIA,T3,N0,M0
+TCGA-D5-6898,51.0,female,white,1.0,7.52,Stage I,T2,N0,M0
+TCGA-D5-6920,77.0,female,white,1.0,12.39,Stage IIA,T3,N0,M0
+TCGA-D5-6922,76.0,male,white,1.0,10.12,Stage IIIA,T3,N1,M0
+TCGA-D5-6923,57.0,male,white,1.0,12.42,Stage I,T2,N0,M0
+TCGA-D5-6924,68.0,male,white,1.0,14.29,Stage IIA,T3,N0,M0
+TCGA-D5-6926,65.0,male,white,1.0,9.03,Stage IIIB,T4a,N1,M0
+TCGA-D5-6927,34.0,male,white,1.0,9.43,Stage IIA,T3,N0,M0
+TCGA-D5-6928,80.0,male,white,1.0,11.63,Stage IIA,T3,N0,M0
+TCGA-D5-6929,49.0,female,white,1.0,13.4,Stage IV,T3,N1,M1
+TCGA-D5-6930,67.0,male,white,1.0,13.34,Stage IIA,T3,N0,M0
+TCGA-D5-6931,77.0,male,white,1.0,11.99,Stage IIIC,T4b,N2,M0
+TCGA-D5-6932,69.0,male,white,1.0,11.37,Stage IIA,T3,N0,M0
+TCGA-D5-7000,79.0,female,white,1.0,10.25,Stage I,T2,N0,M0
+TCGA-DM-A0X9,71.0,female,white,1.0,119.61,Stage IIA,T3,N0,M0
+TCGA-DM-A0XD,65.0,male,white,0.0,24.77,Stage IIA,T3,N0,M0
+TCGA-DM-A0XF,68.0,female,white,0.0,38.73,Stage IIIC,T3,N2,M0
+TCGA-DM-A1D0,79.0,female,white,1.0,130.55,Stage IIA,T3,N0,M0
+TCGA-DM-A1D4,80.0,male,white,0.0,94.03,Stage IIA,T3,N0,M0
+TCGA-DM-A1D6,88.0,male,white,0.0,19.0,Stage IIA,T3,N0,M0
+TCGA-DM-A1D7,82.0,male,white,0.0,13.5,Stage IIA,T3,N0,M0
+TCGA-DM-A1D9,67.0,female,white,1.0,140.28,Stage IIA,T3,N0,M0
+TCGA-DM-A1DA,71.0,female,white,0.0,7.6,Stage IIIC,T3,N2,M0
+TCGA-DM-A1DB,68.0,male,white,0.0,44.93,Stage IIA,T3,N0,M0
+TCGA-DM-A1HA,82.0,male,white,1.0,131.41,Stage IIIC,T3,N2,M0
+TCGA-DM-A280,70.0,female,white,0.0,7.87,Stage IIA,T3,N0,M0
+TCGA-DM-A282,60.0,female,white,1.0,139.06,Stage IIA,T3,N0,M0
+TCGA-DM-A285,71.0,female,white,0.0,5.97,Stage IV,T3,N2,M1
+TCGA-DM-A288,68.0,male,white,0.0,14.23,Stage IIIC,T3,N2,M0
+TCGA-DM-A28A,78.0,male,white,0.0,26.83,Stage IIIC,T3,N2,M0
+TCGA-DM-A28C,74.0,male,white,0.0,82.5,Stage IIA,T3,N0,M0
+TCGA-DM-A28E,72.0,female,white,1.0,119.84,Stage IIA,T3,N0,M0
+TCGA-DM-A28F,73.0,male,white,0.0,36.47,Stage IIIB,T3,N1,M0
+TCGA-DM-A28G,75.0,male,white,0.0,61.63,Stage IIA,T3,N0,M0
+TCGA-DM-A28H,50.0,male,white,1.0,116.98,Stage IIIC,T3,N2,M0
+TCGA-DM-A28K,75.0,male,white,1.0,98.16,Stage IIA,T3,N0,M0
+TCGA-DM-A28M,63.0,male,white,1.0,95.11,Stage IIA,T3,N0,M0
+TCGA-F4-6459,61.0,female,white,0.0,8.73,Stage IIIB,T3,N2a,M0
+TCGA-F4-6460,51.0,female,white,0.0,32.4,Stage IIIB,T3,N1,M0
+TCGA-F4-6461,41.0,female,white,0.0,11.27,Stage IIIC,T4b,N2,M0
+TCGA-F4-6463,51.0,male,white,1.0,35.71,Stage IIA,T3,N0,M0
+TCGA-F4-6569,60.0,male,white,1.0,35.71,Stage I,T2,N0,M0
+TCGA-F4-6570,78.0,female,white,0.0,6.27,Stage IIA,T3,N0,M0
+TCGA-F4-6703,64.0,male,white,1.0,47.83,Stage IIA,T3,N0,M0
+TCGA-F4-6704,60.0,male,american indian or alaska native,1.0,1.54,Stage IIIC,T3,N2b,MX
+TCGA-F4-6805,58.0,female,white,1.0,34.4,Stage IIA,T3,N0,M0
+TCGA-F4-6806,59.0,female,white,1.0,41.39,Stage I,T2,N0,M0
+TCGA-F4-6807,51.0,female,white,1.0,43.0,Stage IIIC,T3,N2b,M0
+TCGA-F4-6808,54.0,female,white,1.0,33.64,Stage I,T1,N0,M0
+TCGA-F4-6809,52.0,female,white,0.0,13.43,Stage IVA,T3,N1,M1
+TCGA-F4-6855,70.0,female,white,1.0,47.37,Stage IIA,T3,N0,M0
+TCGA-F4-6856,45.0,male,white,1.0,35.28,Stage I,T2,N0,M0
+TCGA-G4-6293,49.0,female,white,1.0,133.08,Stage III,T3,N1,M0
+TCGA-G4-6294,75.0,male,white,0.0,28.6,Stage IV,T3,N1,M1
+TCGA-G4-6295,70.0,female,white,1.0,8.34,Stage II,T3,N0,M0
+TCGA-G4-6297,55.0,female,white,1.0,82.33,Stage IV,T3,N2,M1
+TCGA-G4-6298,90.0,male,black or african american,0.0,0.0,Stage IIIB,T4a,N1,MX
+TCGA-G4-6299,69.0,male,white,1.0,74.51,Stage IIIC,T3,N2,M0
+TCGA-G4-6302,90.0,female,white,0.0,0.0,Stage IIA,T3,N0,M0
+TCGA-G4-6303,54.0,female,white,0.0,66.77,Stage IV,T3,N1,M1
+TCGA-G4-6304,66.0,female,white,1.0,53.58,Stage IIB,T4,N0,M0
+TCGA-G4-6307,37.0,female,white,1.0,54.99,Stage IIIB,T3,N1,M0
+TCGA-G4-6309,40.0,female,black or african american,1.0,85.41,Stage IIIB,T3,N1,M0
+TCGA-G4-6310,69.0,male,white,1.0,63.57,Stage IIIB,T3,N1,M0
+TCGA-G4-6311,80.0,male,white,1.0,39.39,Stage III,T3,N1,MX
+TCGA-G4-6314,76.0,female,white,1.0,35.91,Stage IV,T3,N2,M1
+TCGA-G4-6315,66.0,male,white,1.0,61.86,Stage IV,T3,N1,M1
+TCGA-G4-6317,51.0,female,white,1.0,35.97,Stage IIIC,T3,N2,MX
+TCGA-G4-6320,73.0,male,white,1.0,26.41,Stage III,T3,N1,MX
+TCGA-G4-6321,60.0,female,white,1.0,22.08,Stage III,T2,N1,MX
+TCGA-G4-6322,65.0,male,white,1.0,26.02,Stage IIIB,T3,N1,MX
+TCGA-G4-6323,50.0,male,black or african american,1.0,13.76,Stage IA,Tis,N0,MX
+TCGA-G4-6586,73.0,female,white,1.0,35.78,Stage IIA,T3,N0,M0
+TCGA-G4-6588,58.0,female,white,1.0,26.15,Stage IIA,T3,N0,M0
+TCGA-G4-6625,77.0,female,white,1.0,91.72,Stage IIA,T3,N0,M0
+TCGA-G4-6626,90.0,male,white,0.0,0.03,Stage IIA,T3,N0,M0
+TCGA-G4-6627,84.0,male,white,1.0,74.74,Stage IIA,T3,N0,M0
+TCGA-G4-6628,78.0,male,white,1.0,79.63,Stage I,T2,N0,M0
+TCGA-NH-A50T,68.0,female,black or african american,1.0,18.17,Stage IIA,T3,N0,MX
+TCGA-NH-A50U,42.0,male,black or african american,0.0,11.13,Stage IVA,T4a,N0,M1a
+TCGA-NH-A50V,69.0,male,black or african american,1.0,19.32,Stage IIIB,T3,N2a,M0
+TCGA-NH-A5IV,90.0,female,black or african american,1.0,19.32,Stage IIA,T3,N0,MX
+TCGA-NH-A6GA,58.0,male,black or african american,0.0,10.07,Stage IIIC,T4a,N2a,MX
+TCGA-NH-A6GB,71.0,female,black or african american,1.0,15.64,Stage IIIC,T3,N2b,MX
+TCGA-NH-A6GC,66.0,female,black or african american,1.0,12.78,Stage IVB,T4b,N1b,M1b
+TCGA-NH-A8F7,53.0,female,black or african american,1.0,17.84,Stage IIA,T3,N0,MX
+TCGA-NH-A8F8,79.0,male,black or african american,0.0,17.03,Stage IV,T4a,N2b,M1
+TCGA-QG-A5YV,64.0,female,black or african american,1.0,42.74,Stage IIIC,T4b,N1a,MX
+TCGA-QG-A5YW,55.0,female,black or african american,1.0,29.43,Stage IIIC,T3,N2b,MX
+TCGA-QG-A5YX,61.0,female,black or african american,1.0,32.95,Stage IIA,T3,N0,MX
+TCGA-QG-A5Z1,71.0,male,black or african american,0.0,8.53,Stage IIIB,T3,N1b,MX
+TCGA-QG-A5Z2,61.0,male,black or african american,1.0,31.27,Stage I,T2,N0,M0
+TCGA-QL-A97D,84.0,female,black or african american,1.0,21.88,Stage I,T2,N0,MX
+TCGA-SS-A7HO,44.0,female,black or african american,1.0,60.09,Stage IIB,T4a,N0,M0
+TCGA-T9-A92H,82.0,male,black or african american,1.0,11.89,Stage IIA,T3,N0,M0
+TCGA-WS-AB45,52.0,female,black or african american,1.0,69.97,Stage IIA,T3,N0,MX
+TCGA-AF-2687,57.0,male,white,1.0,46.88,Stage IIIC,T3,N2,M0
+TCGA-AF-2689,41.0,female,white,0.0,40.03,Stage IV,T3,N2,M1
+TCGA-AF-2690,76.0,female,white,0.0,17.47,Stage IIIC,T3,N2,M0
+TCGA-AF-2691,48.0,female,white,1.0,43.0,Stage I,T1,N0,M0
+TCGA-AF-2692,54.0,female,white,1.0,13.53,Stage IIA,T3,N0,M0
+TCGA-AF-2693,75.0,male,white,1.0,37.94,Stage I,T2,N0,MX
+TCGA-AF-3400,54.0,male,white,1.0,34.46,Stage IIA,T3,N0,M0
+TCGA-AF-3911,48.0,male,white,1.0,37.71,Stage IIIC,T3,N2,MX
+TCGA-AF-3913,60.0,male,black or african american,0.0,10.53,Stage IV,T3,N1,M1
+TCGA-AF-3914,39.0,male,white,1.0,37.65,Stage IIIB,T3,N2a,M0
+TCGA-AF-4110,77.0,male,white,1.0,29.96,Stage IVA,T4a,N2b,MX
+TCGA-AF-5654,73.0,female,white,0.0,17.07,Stage I,T2,N0,M0
+TCGA-AF-6136,72.0,female,white,1.0,24.34,Stage IIIB,T3,N1b,MX
+TCGA-AF-6655,66.0,male,white,1.0,20.01,Stage IIIA,T2,N1,M0
+TCGA-AF-6672,43.0,male,white,1.0,24.57,Stage IV,T4a,N2b,MX
+TCGA-AF-A56K,56.0,male,black or african american,1.0,86.56,Stage IIA,T3,N0,M0
+TCGA-AF-A56L,48.0,female,black or african american,1.0,65.93,Stage IIIC,T3,N2,M0
+TCGA-AF-A56N,47.0,female,black or african american,1.0,11.83,Stage IIA,T3,N0,M0
+TCGA-AH-6643,50.0,male,white,0.0,43.8,Stage IIIC,T3,N2b,M0
+TCGA-AH-6897,48.0,male,white,1.0,26.41,Stage I,T2,N0,M0
+TCGA-AH-6903,46.0,male,white,1.0,19.45,Stage IIIB,T3,N1b,M0
+TCGA-CI-6622,74.0,male,white,1.0,44.74,Stage IIB,T4,N0,M0
+TCGA-CI-6624,53.0,female,white,1.0,48.16,Stage I,T2,N0,M0
+TCGA-CL-5917,71.0,female,white,1.0,78.06,Stage IIIC,T3,N2,MX
+TCGA-CL-5918,90.0,female,white,1.0,7.16,Stage IIA,T3,N0,MX
+TCGA-DC-4745,49.0,female,white,1.0,20.99,Stage IIIB,T3,N1a,M0
+TCGA-DC-4749,57.0,male,white,1.0,25.03,Stage I,T2,N0,M0
+TCGA-DC-5337,69.0,male,white,1.0,26.02,Stage I,T1,N0,M0
+TCGA-DC-5869,62.0,female,black or african american,1.0,30.98,Stage IIIB,T3,N1a,M0
+TCGA-DC-6154,57.0,female,white,1.0,11.99,Stage IVA,T4a,N2b,M1
+TCGA-DC-6155,31.0,female,white,1.0,13.96,Stage IIIA,T2,N1b,M0
+TCGA-DC-6156,62.0,male,white,1.0,30.98,Stage IVA,T4a,N2b,M1a
+TCGA-DC-6157,48.0,male,black or african american,1.0,51.94,Stage I,T2,N0,M0
+TCGA-DC-6158,70.0,male,white,0.0,11.13,Stage I,T2,N0,M0
+TCGA-DC-6160,68.0,male,white,1.0,43.99,Stage I,T2,N0,M0
+TCGA-DC-6681,70.0,female,white,1.0,25.95,Stage IVA,T3,N2a,M1a
+TCGA-DC-6682,57.0,male,white,1.0,25.03,Stage IIA,T3,N0,M0
+TCGA-DC-6683,43.0,male,white,1.0,25.03,Stage IIIB,T3,N1b,M0
+TCGA-DT-5265,51.0,male,asian,1.0,12.61,Stage II,T3,N0,M0
+TCGA-DY-A0XA,57.0,female,white,1.0,126.35,Stage IIA,T3,N0,M0
+TCGA-DY-A1DC,72.0,female,white,0.0,41.93,Stage IIA,T3,N0,M0
+TCGA-DY-A1DD,77.0,female,white,0.0,58.03,Stage IIIB,T3,N1,M0
+TCGA-DY-A1DE,56.0,female,white,1.0,129.17,Stage IIA,T3,N0,M0
+TCGA-DY-A1DF,73.0,female,white,0.0,24.47,Stage IIIC,T3,N2,M0
+TCGA-DY-A1DG,75.0,male,white,0.0,52.2,Stage IVA,T3,N1,M1
+TCGA-DY-A1H8,77.0,female,white,0.0,33.07,Stage IIIA,T2,N1,M0
+TCGA-EF-5830,54.0,male,white,1.0,3.48,Stage IIB,T4a,N0,M0
+TCGA-EI-6506,78.0,female,white,1.0,20.53,Stage IIA,T3,N0,M0
+TCGA-EI-6507,60.0,male,white,1.0,19.94,Stage IIA,T3,N0,M0
+TCGA-EI-6508,48.0,female,white,1.0,20.89,Stage IIIB,T3,N1a,M0
+TCGA-EI-6509,53.0,male,white,1.0,16.98,Stage IIIC,T3,N2b,M0
+TCGA-EI-6511,52.0,male,white,1.0,15.83,Stage IIIB,T3,N1,M0
+TCGA-EI-6512,64.0,female,white,1.0,17.67,Stage IIIB,T3,N1,M0
+TCGA-EI-6513,59.0,male,white,1.0,16.33,Stage IIIB,T3,N1,M0
+TCGA-EI-6514,59.0,female,white,1.0,16.29,Stage IIA,T3,N0,M0
+TCGA-EI-6881,60.0,male,white,1.0,16.39,Stage IIIA,T3,N1,M0
+TCGA-EI-6882,59.0,male,white,1.0,8.61,Stage IIA,T3,N0,M0
+TCGA-EI-6883,63.0,male,white,1.0,11.5,Stage IIC,T3,N0,M0
+TCGA-EI-6884,71.0,male,white,1.0,10.78,Stage IIIA,T3,N1,M0
+TCGA-EI-6885,57.0,female,white,1.0,13.63,Stage IV,T3,N1b,M1
+TCGA-EI-6917,33.0,male,white,1.0,17.44,Stage IIIA,T3,N1,M0
+TCGA-EI-7002,58.0,male,white,1.0,11.96,Stage IV,T3,N2,M1
+TCGA-F5-6464,77.0,female,white,0.0,10.1,Stage IIIC,T4b,N2a,M0
+TCGA-F5-6465,64.0,female,white,1.0,49.47,Stage IIA,T3,N0,M0
+TCGA-F5-6571,62.0,female,white,1.0,42.31,Stage IIA,T3,N0,M0
+TCGA-F5-6702,71.0,male,white,0.0,28.97,Stage IVA,T3,N1,M1
+TCGA-F5-6811,72.0,female,white,1.0,32.16,Stage IIA,T3,N0,M0
+TCGA-F5-6812,67.0,male,white,1.0,36.47,Stage IIA,T3,N0,M0
+TCGA-F5-6813,70.0,male,white,0.0,19.93,Stage IIIC,T4a,N2,M0
+TCGA-F5-6814,57.0,male,white,1.0,37.16,Stage IIA,T3,N0,M0
+TCGA-F5-6863,71.0,female,white,0.0,12.03,Stage IIIB,T4a,N1,M0
+TCGA-F5-6864,74.0,female,white,1.0,12.45,Stage IIIB,T3,N2a,M0
+TCGA-G5-6235,72.0,male,white,1.0,55.72,Stage IIIB,T3,N1,MX
+TCGA-G5-6641,67.0,male,white,1.0,26.41,Stage IIIA,T1,N1,MX

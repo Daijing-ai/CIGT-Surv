@@ -1,0 +1,2 @@
+AGE_TEMPLATE,SEX_TEMPLATE,RACE_TEMPLATE,TUMORSTAGE_TEMPLATE,Tstage_TEMPLATE,Nstage_TEMPLATE,Mstage_TEMPLATE
+The age is AGE years old.,This is a SEX.,The person is RACE.,The pathology stage is TUMORSTAGE.,The primary role of the tumor is Tstage.,The lymph node is Nstage,The metastasis is Mstage
